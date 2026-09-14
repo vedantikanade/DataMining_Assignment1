@@ -1,0 +1,17 @@
+Build a full-stack Expense Tracker web application using Python (Flask) and plain HTML/Tailwind CSS/JS.
+
+Requirements:
+1. Backend (Flask):
+   - SQLite database using SQLAlchemy with models for `Expense` (id, title, amount, category, date).
+   - REST API endpoints:
+     - GET /api/expenses: Retrieve all expenses.
+     - POST /api/expenses: Add a new expense.
+     - DELETE /api/expenses/<id>: Delete an expense.
+     - GET /api/analytics: Return category breakdown and total monthly spending.
+2. Frontend:
+   - Dashboard displaying total spent, interactive chart (using Chart.js) for category breakdowns.
+   - Form to add new expenses (title, amount, category dropdown, date).
+   - Interactive table listing expenses with delete options.
+3. Code Structure:
+   - Modular file structure (`app.py`, `models.py`, `routes.py`, `static/`, `templates/`).
+   - Standard dependency list in `requirements.txt`.

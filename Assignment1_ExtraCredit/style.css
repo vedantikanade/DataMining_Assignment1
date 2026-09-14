@@ -1,0 +1,51 @@
+/* Dark native controls + JS-generated table rows (Tailwind CDN handles the rest) */
+:root {
+    color-scheme: dark;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+    cursor: pointer;
+}
+
+#expenses-table tbody tr {
+    transition: background-color 0.15s ease;
+}
+
+#expenses-table tbody tr:hover {
+    background-color: rgba(255, 255, 255, 0.04);
+}
+
+#expenses-table td {
+    padding: 0.85rem 1rem;
+    color: #e2e8f0;
+    vertical-align: middle;
+}
+
+#expenses-table td:nth-child(2) {
+    color: #6ee7b7;
+    font-weight: 500;
+}
+
+#expenses-table td:nth-child(4) {
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    color: #fff;
+}
+
+.delete-btn {
+    border: 1px solid rgba(248, 113, 113, 0.35);
+    background: rgba(239, 68, 68, 0.12);
+    color: #fca5a5;
+    border-radius: 0.6rem;
+    padding: 0.35rem 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.delete-btn:hover {
+    background: rgba(239, 68, 68, 0.28);
+    color: #fecaca;
+}

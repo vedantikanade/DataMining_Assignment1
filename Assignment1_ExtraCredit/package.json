@@ -1,0 +1,10 @@
+{
+  "name": "expense-tracker",
+  "private": true,
+  "scripts": {
+    "test": "jest tests/ExpenseTracker.test.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
