@@ -14,6 +14,10 @@ Fetal Health Classification Project Walkthrough -
 
 ---
 
+**Medium Article:** Read Full CRISP-DM Write-up on Medium - https://medium.com/@vedantikanade/why-my-deep-learning-model-lost-to-xgboost-on-fetal-health-data-562a8c0fec39
+
+---
+
 ## Methodology (CRISP-DM Workflow)
 
 1. **Clinical & Problem Understanding**: Frame the objective around patient safety. Missing a high-risk case (Type II error) is significantly worse than a false alarm (Type I error).
