@@ -21,7 +21,7 @@ This repository consolidates all components of Assignment 1 for **CS 185 / Data 
 | :--- | :--- | :--- | :--- |
 | **`Assignment1_Part1/`** | Machine Learning & Risk Minimization | [Part 1 Video](https://www.youtube.com/watch?v=YOUR_PART1_VIDEO_ID) | `DataMining_Assignment1.ipynb`, PDF report, `chat_transcript.pdf`, `fetal_health.csv` |
 | **`Assignment1_Part2/`** | Multi-Task Analysis & Applications | [Part 2 Video](https://www.youtube.com/watch?v=YOUR_PART2_VIDEO_ID) | Interactive apps (`app.py`), prompts, and implementation scripts |
-| **`Assignment1_ExtraCredit/`** | Extended Experiments | [Extra Credit Video](https://www.youtube.com/watch?v=YOUR_EXTRACREDIT_VIDEO_ID) | Extended test suites, web components, and experimental logs |
+| **`Assignment1_ExtraCredit/`** | Extended Experiments | [Extra Credit Video]([https://www.youtube.com/watch?v=YOUR_EXTRACREDIT_VIDEO_ID](https://youtu.be/J8eegY_147w)) | Extended test suites, web components, and experimental logs |
 
 ---
 
