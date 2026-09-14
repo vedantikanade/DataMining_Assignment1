@@ -10,7 +10,7 @@ Because misclassifying a high-risk fetus as healthy carries severe medical conse
 
 ## 🎥 Project Video Presentation
 Watch the complete project walkthrough and methodology explanation on YouTube:
-Fetal Health Classification Project Walkthrough - 
+Fetal Health Classification Project Walkthrough - https://youtu.be/oXodvUazF8I
 
 ---
 
